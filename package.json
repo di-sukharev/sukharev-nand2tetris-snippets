@@ -10,7 +10,7 @@
   "icon": "images/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/roblourens/vscode-nand2tetris-hdl"
+    "url": "https://github.com/di-sukharev/sukharev-nand2tetris-snippets"
   },
   "categories": [
     "Languages"
@@ -56,10 +56,5 @@
         "path": "./snippets/hdl.snippets.json"
       }
     ]
-  },
-  "__metadata": {
-    "id": "0fec71c2-ca27-40db-883b-0f1fb848ba32",
-    "publisherId": "04e862da-1c93-498b-9b53-a39abe107a98",
-    "publisherDisplayName": "roblourens"
   }
 }
